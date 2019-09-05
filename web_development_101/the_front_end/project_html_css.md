@@ -2400,6 +2400,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Harry Coburn's Solution(Easy)](https://github.com/mattibun/google-homepage) - [View in Browser](https://mattibun.github.io/google-homeplage/)
 * [TS Solution (Easy)](https://github.com/itspuppet/Google-Homepage/) - [View in Browser](https://itspuppet.github.io/Google-Homepage/)
 * [Gabriel Davison's's Solution (Easy)](https://github.com/gabrieldavison/google-homepage) - [View in Browser](https://gabrieldavison.github.io/google-homepage/)
+* [Julio's Solution (Easy)](https://github.com/julio22b/google-homepage) - [View in Browser](https://julio22b.github.io/google-homepage/)
+* [Julio's Solution (Difficult)](https://github.com/julio22b/google-search-page) - [View in Browser](https://julio22b.github.io/google-search-page/)
 </details>
 
 ### Additional Resources
